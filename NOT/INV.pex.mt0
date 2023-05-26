@@ -1,0 +1,6 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='S-2021.09 linux64' PARAM_COUNT=0
+.TITLE '* file: inv.pex.sp'
+ vmax             vmin             trise            tfall           
+ tdelay_hl        tdelay_lh        temper           alter#          
+    1.9499        -4.828e-02        3.729e-11        1.748e-11      
+  1.265e-11        1.686e-11         25.0000        1               
