@@ -1,0 +1,8 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='S-2021.09 linux64' PARAM_COUNT=0
+.TITLE '************************************************************************'
+ vmax             vmin             trise            slewrate        
+ tdelay_hl        tdelay_lh        propagation_delay temper          
+ alter#          
+    2.1709          -0.1029        -2.030e-09       -9.063e+08      
+  2.645e-11        2.584e-11        2.615e-11         25.0000       
+1               
