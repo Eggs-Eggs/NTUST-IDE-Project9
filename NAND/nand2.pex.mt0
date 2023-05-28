@@ -1,0 +1,8 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='S-2021.09 linux64' PARAM_COUNT=0
+.TITLE '* file: nand2.pex.sp'
+ vmax             vmin             trise            slewrate        
+ tdelay_hl        tdelay_lh        propagation_delay temper          
+ alter#          
+    2.1573        -7.284e-02       -2.032e-09       -8.854e+08      
+  2.988e-11        2.862e-11        2.925e-11         25.0000       
+1               
